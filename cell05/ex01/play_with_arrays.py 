@@ -1,3 +1,0 @@
-ืnumber_array = [-2, -1, 0, 1, 2, 3, 4]
-new = +2
-ืprint(number_array)

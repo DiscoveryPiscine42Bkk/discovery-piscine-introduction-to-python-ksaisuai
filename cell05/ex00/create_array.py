@@ -1,2 +1,4 @@
-ืnumber_array = [-2, -1, 0, 1, 2, 3, 4]
-ืprint(number_array)
+def main():
+    arr = [2, 8, 9, 48, 8, 22, -12, 2]
+    print(arr)
+main()
