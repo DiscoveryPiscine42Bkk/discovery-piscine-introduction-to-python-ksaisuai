@@ -1,9 +1,9 @@
 num1 = int(input("Give me the first number: "))
-num2 = int(input("Give me thw second number: "))
+num2 = int(input("Give me the second number: "))
 print(f"{num1} + {num2} = {num1 + num2}")
 print(f"{num1} - {num2} = {num1 - num2}")
 div = num1 / num2
-if div == int(div):
+if div == int(div) :
     print(f"{num1} / {num2} = {int(num1 / num2)}")
 else:
     print(f"{num1} / {num2} = {div}")
